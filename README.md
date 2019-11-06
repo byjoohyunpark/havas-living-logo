@@ -1,0 +1,1 @@
+# havas-living-logo
