@@ -24,7 +24,7 @@
     "seed-random": "^2.2.0",
     "simplex-noise": "^2.4.0",
     "stats.js": "^0.17.0",
-    "three": "^0.109.0",
+    "three": "^0.125.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
